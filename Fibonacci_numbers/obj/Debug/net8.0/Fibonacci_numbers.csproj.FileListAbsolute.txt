@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\bin\Debug\net8.0\Fibonacci_numbers.exe
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\bin\Debug\net8.0\Fibonacci_numbers.deps.json
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\bin\Debug\net8.0\Fibonacci_numbers.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\bin\Debug\net8.0\Fibonacci_numbers.dll
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\bin\Debug\net8.0\Fibonacci_numbers.pdb
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\obj\Debug\net8.0\Fibonacci_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\obj\Debug\net8.0\Fibonacci_numbers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\obj\Debug\net8.0\Fibonacci_numbers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\obj\Debug\net8.0\Fibonacci_numbers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\obj\Debug\net8.0\Fibonacci_numbers.dll
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\obj\Debug\net8.0\refint\Fibonacci_numbers.dll
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\obj\Debug\net8.0\Fibonacci_numbers.pdb
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\obj\Debug\net8.0\Fibonacci_numbers.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Fibonacci_numbers\Fibonacci_numbers\obj\Debug\net8.0\ref\Fibonacci_numbers.dll
